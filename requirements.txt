@@ -1,0 +1,10 @@
+transformers
+sentencepiece
+PyPDF2 
+transformers
+python-docx
+reportlab
+docx2txt
+pdfkit
+streamlit
+torch
